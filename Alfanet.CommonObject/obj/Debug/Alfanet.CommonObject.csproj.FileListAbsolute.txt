@@ -38,7 +38,6 @@ D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\Debug\Alfanet.CommonObject.pdb
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\bin\Debug\Alfanet.CommonObject.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\bin\Debug\Alfanet.CommonObject.pdb
-D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Debug\Alfanet.CommonObject.csprojAssemblyReference.cache
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Debug\Alfanet.CommonObject.csproj.CoreCompileInputs.cache
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Debug\Alfanet.CommonObject.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Debug\Alfanet.CommonObject.dll

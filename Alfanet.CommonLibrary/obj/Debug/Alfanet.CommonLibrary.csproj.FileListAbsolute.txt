@@ -252,5 +252,3 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.pdb
-D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
-D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml

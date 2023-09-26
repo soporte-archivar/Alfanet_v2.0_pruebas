@@ -557,8 +557,7 @@ namespace Alfanet.Dal
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Ha ocurrido una excepción: " + ex.Message);
-                result1 = "ERROR";
+                result1 = "ERROR" + ex.ToString();
                 return radicadoCodigo;
             }
         }

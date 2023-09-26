@@ -104,3 +104,13 @@ D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.ConnectionManager
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.pdb
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CopyComplete
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.dll.config
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.pdb
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\log4net.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\log4net.xml
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CoreCompileInputs.cache
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CopyComplete
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.pdb
