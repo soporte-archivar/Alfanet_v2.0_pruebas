@@ -114,3 +114,16 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.dll.config
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Alfanet.ConnectionManager.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\log4net.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\log4net.xml
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csprojAssemblyReference.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CoreCompileInputs.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CopyComplete
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.pdb
