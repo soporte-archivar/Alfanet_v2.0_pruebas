@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="BasicHttpBinding_IError" contract="ErrorService.IError" bindingType="basicHttpBinding" address="http://localhost:57962/AlfanetWCF_Library.ErrorService.svc" bindingConfiguration="BasicHttpBinding_IError1">
+    <endpoint name="BasicHttpBinding_IError" contract="ErrorService.IError" bindingType="basicHttpBinding" address="http://localhost:57963/AlfanetWCF_Library.ErrorService.svc" bindingConfiguration="BasicHttpBinding_IError1">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://localhost:57962/AlfanetWCF_Library.ErrorService.svc</serializedValue>
+          <serializedValue>http://localhost:57963/AlfanetWCF_Library.ErrorService.svc</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

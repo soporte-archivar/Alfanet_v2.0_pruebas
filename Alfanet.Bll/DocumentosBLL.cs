@@ -102,15 +102,26 @@ namespace Alfanet.Bll
 
 					listDocuments.Add(documents);
 				}
-				return listDocuments;
-			}
+                CreateDocumentsList3(listDocuments);
+
+            }
 			catch (Exception)
 			{                
 				throw;
 			}
 		}
-
-		public List<ObjDependencia> GetDependencias(ConfigData config) 
+        private List<ObjDocumentos> CreateDocumentsList3(List<ObjDocumentos>Docume)
+        {
+            try
+            {
+                return Docume;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+        public List<ObjDependencia> GetDependencias(ConfigData config) 
 		{
 			QueryManager dal = null;
 			ObjDependencia dependencia = null;

@@ -18,14 +18,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="RegistrosWS.xsd" MetadataType="Schema" ID="23779f0c-e50b-4edf-8903-b6b3e3200c7c" SourceId="1" SourceUrl="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd0" />
-    <MetadataFile FileName="RegistrosWS1.xsd" MetadataType="Schema" ID="32231367-efcc-4122-8853-dd121329ff26" SourceId="1" SourceUrl="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd2" />
-    <MetadataFile FileName="RegistrosWS.disco" MetadataType="Disco" ID="7043a06c-f9c7-43af-81df-05e11dc4c48b" SourceId="1" SourceUrl="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc?disco" />
-    <MetadataFile FileName="RegistrosWS2.xsd" MetadataType="Schema" ID="9c16d77e-9926-4941-a9b9-00b0663a28b4" SourceId="1" SourceUrl="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd1" />
-    <MetadataFile FileName="RegistrosService.wsdl" MetadataType="Wsdl" ID="47bc8db1-59d5-4ca3-8e43-97537253db24" SourceId="1" SourceUrl="http://localhost:57962/Alfanet.WCFServiceSite/RegistrosWS.svc?wsdl" />
+    <MetadataFile FileName="RegistrosWS.xsd" MetadataType="Schema" ID="23779f0c-e50b-4edf-8903-b6b3e3200c7c" SourceId="1" SourceUrl="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd0" />
+    <MetadataFile FileName="RegistrosWS1.xsd" MetadataType="Schema" ID="32231367-efcc-4122-8853-dd121329ff26" SourceId="1" SourceUrl="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd2" />
+    <MetadataFile FileName="RegistrosWS.disco" MetadataType="Disco" ID="7043a06c-f9c7-43af-81df-05e11dc4c48b" SourceId="1" SourceUrl="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc?disco" />
+    <MetadataFile FileName="RegistrosWS2.xsd" MetadataType="Schema" ID="9c16d77e-9926-4941-a9b9-00b0663a28b4" SourceId="1" SourceUrl="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc?xsd=xsd1" />
+    <MetadataFile FileName="RegistrosService.wsdl" MetadataType="Wsdl" ID="47bc8db1-59d5-4ca3-8e43-97537253db24" SourceId="1" SourceUrl="http://localhost:57963/Alfanet.WCFServiceSite/RegistrosWS.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

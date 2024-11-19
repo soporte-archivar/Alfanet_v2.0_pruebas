@@ -18,14 +18,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:57962/AlfanetWCF_Library.ErrorService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost:57963/AlfanetWCF_Library.ErrorService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="AlfanetWCF_Library.xsd" MetadataType="Schema" ID="14d82eee-96ad-4ec6-8d04-90da83b62310" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.ErrorService.svc?xsd=xsd1" />
-    <MetadataFile FileName="AlfanetWCF_Library1.xsd" MetadataType="Schema" ID="6c48073b-9629-4f57-92f3-e8571bbc2fc1" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.ErrorService.svc?xsd=xsd0" />
-    <MetadataFile FileName="AlfanetWCF_Library.disco" MetadataType="Disco" ID="0321eb80-f6b8-4f3a-a42a-5e33cb72d2ef" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.ErrorService.svc?disco" />
-    <MetadataFile FileName="AlfanetWCF_Library2.xsd" MetadataType="Schema" ID="16b6435f-efae-4f0b-87b4-25109c427d99" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.ErrorService.svc?xsd=xsd2" />
-    <MetadataFile FileName="ErrorService1.wsdl" MetadataType="Wsdl" ID="22b5bac5-78a3-421e-939e-8050f57779df" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.ErrorService.svc?wsdl" />
+    <MetadataFile FileName="AlfanetWCF_Library.xsd" MetadataType="Schema" ID="14d82eee-96ad-4ec6-8d04-90da83b62310" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.ErrorService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AlfanetWCF_Library1.xsd" MetadataType="Schema" ID="6c48073b-9629-4f57-92f3-e8571bbc2fc1" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.ErrorService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AlfanetWCF_Library.disco" MetadataType="Disco" ID="0321eb80-f6b8-4f3a-a42a-5e33cb72d2ef" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.ErrorService.svc?disco" />
+    <MetadataFile FileName="AlfanetWCF_Library2.xsd" MetadataType="Schema" ID="16b6435f-efae-4f0b-87b4-25109c427d99" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.ErrorService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ErrorService1.wsdl" MetadataType="Wsdl" ID="22b5bac5-78a3-421e-939e-8050f57779df" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.ErrorService.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

@@ -143,10 +143,6 @@ public class RadicacionMasivaBLL
         ObjFactura factura = null;
         List<ObjFactura> listDocuments = null;
         Faltantes = "La(s) Procedencia(s) ";
-        string Summary = "";
-        string CamposVacios = "";
-        string DuplicadosBD = "";
-        string DuplicadosExcel = "";
         try
         {
             Dal = new QueryManager();
@@ -200,39 +196,13 @@ public class RadicacionMasivaBLL
                         factura.Detalle = "Registro Oasis: " + dr["facn_numero"].ToString() + " Valor: " + dr["facv_total"].ToString() + " Nit del Prestador: " + dr["facv_tercero"].ToString() + " Responsable: " + dr["facv_responsable"].ToString() + " Unidad Almacenamiento: " + dr["facc_almacenamiento"].ToString() + " Modalidad de Contrato: " + dr["conc_nombre"].ToString();
                         listDocuments.Add(factura);
                     }
-                    else
-                    {
-                        DuplicadosBD = DuplicadosBD + "<br/>la factura " + facturaValidar + " Ya Existe en Base de datos revise los datos del archivo <br />";
-                }
 
                
             }
 
-            // Se itera sobre los diferentes nits que vienen en el campo facv_tercero del archivo con el fin de validar su procedencia
-            foreach (var item in listDocuments.Select(x => x.Facv_tercero).Distinct())
-            {
-                if (!Dal.ValidarProcedenciaNui(config, item))
-                {
-                    Summary = (Summary.Contains(item) ? Summary : (Summary + " " + item + ","));
-                }
-            }
+            CreateDocumentsList3(listDocuments);
 
-            //Se valida que la lista no traiga facturas repetidas, si lo hace, se eliminan de la lista los elementos repetidos
-            //Si el número de diferentes facturas es diferente a la cantidad de documentos que trae el archivo
-
-            var lstFactDuplicadas = listDocuments.GroupBy(x => x.Facc_factura).Where(grp => grp.Count() > 1).Select(x => x.Key);
-
-            foreach (var item in lstFactDuplicadas)
-            {
-                DuplicadosExcel = $"{DuplicadosExcel} <br/> La factura {item} se encuentra más de una vez en el archivo 333<br />";
-            }
-
-
-            Faltantes = Faltantes + Summary + " No Existe(n) en Alfanet ";
-            SCamposVacios = CamposVacios;
-            SDuplicadosBD = DuplicadosBD;
-            SDuplicadosExcel = DuplicadosExcel;
-            return listDocuments;
+            
         }
         catch (Exception ex)
         {
@@ -241,6 +211,17 @@ public class RadicacionMasivaBLL
         }
     }
 
+    private List<ObjFactura> CreateDocumentsList3(List<ObjFactura> Docume)
+    {
+        try
+        {
+            return Docume;
+        }
+        catch (Exception)
+        {
+            throw;
+        }
+    }
     private List<ObjFactura> CreateFacturaList2(DataTable data, string Naturaleza, string serie, string DependenciaNombre, string Medio)
     {
         ObjFactura factura = null;

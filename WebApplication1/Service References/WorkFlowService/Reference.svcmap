@@ -18,14 +18,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:57962/AlfanetWCF_Library.WorkFlowService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost:57963/AlfanetWCF_Library.WorkFlowService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="WorkFlowService1.wsdl" MetadataType="Wsdl" ID="93c36868-3ce5-4de3-8fd6-de925df0e307" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.WorkFlowService.svc?wsdl" />
-    <MetadataFile FileName="AlfanetWCF_Library.xsd" MetadataType="Schema" ID="8ba65f51-3bdd-4398-80de-1b5facb36882" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd2" />
-    <MetadataFile FileName="AlfanetWCF_Library.disco" MetadataType="Disco" ID="154eb2fa-6233-4361-934d-9f53219b66b9" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.WorkFlowService.svc?disco" />
-    <MetadataFile FileName="AlfanetWCF_Library1.xsd" MetadataType="Schema" ID="3c567974-a450-43af-95d5-3480ae5e37b8" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd1" />
-    <MetadataFile FileName="AlfanetWCF_Library2.xsd" MetadataType="Schema" ID="431aadc4-aed9-4f60-a970-a8b12ff5bc76" SourceId="1" SourceUrl="http://desktop-1aeev3k:57962/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd0" />
+    <MetadataFile FileName="WorkFlowService1.wsdl" MetadataType="Wsdl" ID="93c36868-3ce5-4de3-8fd6-de925df0e307" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.WorkFlowService.svc?wsdl" />
+    <MetadataFile FileName="AlfanetWCF_Library.xsd" MetadataType="Schema" ID="8ba65f51-3bdd-4398-80de-1b5facb36882" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AlfanetWCF_Library.disco" MetadataType="Disco" ID="154eb2fa-6233-4361-934d-9f53219b66b9" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.WorkFlowService.svc?disco" />
+    <MetadataFile FileName="AlfanetWCF_Library1.xsd" MetadataType="Schema" ID="3c567974-a450-43af-95d5-3480ae5e37b8" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AlfanetWCF_Library2.xsd" MetadataType="Schema" ID="431aadc4-aed9-4f60-a970-a8b12ff5bc76" SourceId="1" SourceUrl="http://desktop-1aeev3k:57963/AlfanetWCF_Library.WorkFlowService.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
