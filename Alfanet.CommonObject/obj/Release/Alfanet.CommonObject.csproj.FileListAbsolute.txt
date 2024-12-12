@@ -33,3 +33,10 @@ D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.dll
 D:\01 APPAlfanet\01. Aplicacion\MUTUALSER\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.pdb
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\bin\Release\Alfanet.CommonObject.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\bin\Release\Alfanet.CommonObject.pdb
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.csprojAssemblyReference.cache
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.csproj.CoreCompileInputs.cache
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.csproj.CopyComplete
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonObject\obj\Release\Alfanet.CommonObject.pdb

@@ -170,3 +170,5 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\obj\Debug\Alfa
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\obj\Debug\Alfanet.Dal.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\obj\Debug\Alfanet.Dal.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\obj\Debug\Alfanet.Dal.pdb
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\bin\Debug\Microsoft.Practices.Unity.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.Dal\bin\Debug\Microsoft.Practices.Unity.pdb

@@ -16,9 +16,9 @@ namespace AlfanetWCF_Library
         [OperationBehavior(ReleaseInstanceMode = ReleaseInstanceMode.BeforeAndAfterCall)]
         public List<ObjFactura> GetPreview(string dependenciaEnvio, string naturaleza, string medio, string CodDep, ConfigData config, byte[] file, string fileName, out List<string> result, out string objCacheName, out string summary, out string CamposVacios, out string DuplicadosDB, out string DuplicadosExcel)
         {
-            RadicacionMasivaBLL radicacionMasivaBLL = new RadicacionMasivaBLL();
+            RadicacionMasivaBLL RadicacionMasivaBLL = new RadicacionMasivaBLL();
             List<ObjFactura> list = new List<ObjFactura>();
-            return radicacionMasivaBLL.GetPreview(dependenciaEnvio, naturaleza, medio, CodDep, config, file, fileName, out result, out objCacheName, out summary, out CamposVacios, out DuplicadosDB, out DuplicadosExcel);
+            return RadicacionMasivaBLL.GetPreview(dependenciaEnvio, naturaleza, medio, CodDep, config, file, fileName, out result, out objCacheName, out summary, out CamposVacios, out DuplicadosDB, out DuplicadosExcel);
         }
 
         [OperationBehavior(ReleaseInstanceMode = ReleaseInstanceMode.BeforeAndAfterCall)]

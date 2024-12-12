@@ -108,6 +108,7 @@ namespace WebApplication1.RadicacionMasiva
                 }
                 catch (Exception ex)
                 {
+                     var exep = ex.Message;
                      throw;
                 }
             }
@@ -379,7 +380,7 @@ namespace WebApplication1.RadicacionMasiva
             }
             catch (Exception ex)
             {
-                lblMessage.Text = "No es posible generar la vista previa en este momento.";                
+                lblMessage.Text = "No es posible generar la vista previa en este momento."+ ex.Message;                
                 btnVistaPrevia.Enabled = true;
             }
         }
@@ -407,7 +408,7 @@ namespace WebApplication1.RadicacionMasiva
             }
             catch (Exception ex)
             {
-                lblMessage.Text = "Ocurrió un error al realizar el proceso de radicación masiva.";
+                lblMessage.Text = "Ocurrió un error al realizar el proceso de radicación masiva." + ex.Message;
                 btnRadicar.Enabled = true;
             }
         }

@@ -114,4 +114,5 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.pdb
-D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\obj\Debug\Alfanet.ConnectionManager.csprojAssemblyReference.cache
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.dll
+D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.ConnectionManager\bin\Debug\Microsoft.Practices.Unity.pdb

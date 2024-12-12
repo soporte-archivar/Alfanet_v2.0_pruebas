@@ -59,6 +59,7 @@
     <Compile Include="DocumentosBLL.cs" />
     <Compile Include="DocumentosFisicosBLL.cs" />
     <Compile Include="ErrorBLL.cs" />
+    <Compile Include="RadicacionMasivaBLL2.cs" />
     <Compile Include="RadicacionMasivaBLL.cs" />
     <Compile Include="Registros.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
