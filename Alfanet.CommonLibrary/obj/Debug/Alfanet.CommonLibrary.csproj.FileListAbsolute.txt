@@ -252,3 +252,13 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\bin\Debug\Alfanet.CommonLibrary.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\bin\Debug\Alfanet.CommonLibrary.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\bin\Debug\Alfanet.CommonObject.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\bin\Debug\FileHelpers.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\bin\Debug\Alfanet.CommonObject.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.csprojAssemblyReference.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.csproj.CoreCompileInputs.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.csproj.CopyComplete
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\Alfanet.CommonLibrary\obj\Debug\Alfanet.CommonLibrary.pdb

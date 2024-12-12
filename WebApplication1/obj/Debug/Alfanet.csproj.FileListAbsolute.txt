@@ -257,3 +257,40 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\WebApplication1\obj\Debug\
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\WebApplication1\obj\Debug\Alfanet.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\WebApplication1\obj\Debug\WebApplication1.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\WebApplication1.dll.config
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\WebApplication1.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\WebApplication1.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\AjaxControlToolkit.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\Alfanet.CommonLibrary.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\Alfanet.CommonObject.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\HtmlAgilityPack.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\log4net.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\SanitizerProviders.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\FileHelpers.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\EnvDTE.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\stdole.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\Alfanet.CommonLibrary.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\Alfanet.CommonObject.pdb
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\log4net.xml
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\ar\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\cs\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\de\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\es\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\fr\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\he\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\hi\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\it\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\ja\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\ko\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\nl\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\pt\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\ru\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\Alfanet.csprojAssemblyReference.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\Alfanet.csproj.ResolveComReference.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\Alfanet.csproj.CoreCompileInputs.cache
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\Alfanet.csproj.CopyComplete
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\WebApplication1.dll
+D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\WebApplication1\obj\Debug\WebApplication1.pdb
