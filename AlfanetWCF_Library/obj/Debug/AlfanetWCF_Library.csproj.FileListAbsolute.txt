@@ -208,38 +208,5 @@ D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\obj\Deb
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.csproj.CopyComplete
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.pdb
-<<<<<<< HEAD
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.dll
 D:\01 APPAlfanet\01. Aplicacion\Alfanet2\Alfanet_v2.0\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.pdb
-=======
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\AlfanetWCF_Library.dll.config
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\AlfanetWCF_Library.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\AlfanetWCF_Library.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.Bll.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.CommonObject.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\FileHelpers.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\log4net.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.Dal.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.CommonLibrary.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.ConnectionManager.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.Interception.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.Bll.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.CommonObject.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\log4net.xml
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.Dal.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.CommonLibrary.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.ConnectionManager.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Alfanet.ConnectionManager.dll.config
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.csprojAssemblyReference.cache
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.csproj.CoreCompileInputs.cache
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.csproj.CopyComplete
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.dll
-D:\AlfanetPruebas2\Alfanet_v2.0_pruebas\AlfanetWCF_Library\obj\Debug\AlfanetWCF_Library.pdb
->>>>>>> df926e0c6484a4f675b12b4372ce0421ab5aebaf
